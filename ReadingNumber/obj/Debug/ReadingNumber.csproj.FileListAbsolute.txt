@@ -1,0 +1,12 @@
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.exe.config
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.exe
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.pdb
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.exe
+C:\Users\damla\Desktop\Projects\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.pdb
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.exe.config
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.exe
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.pdb
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.exe
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\bin\Debug\ReadingNumber.pdb
+C:\Users\damla\Desktop\Projects_C#\ReadingNumber\ReadingNumber\obj\Debug\ReadingNumber.csprojResolveAssemblyReference.cache
